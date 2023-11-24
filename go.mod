@@ -1,4 +1,4 @@
-module ./notinternal
+module github.com/ksolive/notinternal
 
 go 1.21.4
 
